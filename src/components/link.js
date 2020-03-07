@@ -1,4 +1,4 @@
-import React from "react"
+gatsby new gatsby-starter-profile-site https://github.com/Mr404Found/gatsby-starter-profile-siteimport React from "react"
 import Link from "gatsby-plugin-transition-link/AniLink"
 
 export default function Intent({ children, to }) {
